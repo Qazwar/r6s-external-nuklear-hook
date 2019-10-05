@@ -5,6 +5,8 @@
 
 Simple copy paste ready base for external cheats using kernel function hook for km-um communication, intended to be manual mapped using drvmap or kdmapper.
 
+Driver is made for winver: 1809 (not tested on other winvers).
+
 Link to kdmapper for winver: 1803-1903. 
 https://github.com/alxbrn/kdmapper-1803-1903
 
