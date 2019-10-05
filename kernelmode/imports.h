@@ -297,7 +297,6 @@ typedef struct _COPY_MEMORY {
 	const char* moduleName;
 	ULONG pid_ofSource;
 
-	// IChooseYou Added
 	//UINT_PTR	process_id; already here 
 	//PVOID		address; already here
 	//SIZE_T		size;  already here
