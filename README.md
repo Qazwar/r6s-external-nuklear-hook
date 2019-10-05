@@ -13,7 +13,6 @@ https://github.com/alxbrn/kdmapper-1803-1903
 ## Gui Example
 Application comes with a couple examples of how to do a cool gui: login panel & gui
 <div align="center">
-  <img width="258" src="https://i.gyazo.com/d638a026986b0cfdb3a3142b84c4eda9.png" alt="logo">
   <img width="258" src="https://i.gyazo.com/aecea264cba5c72d05f25976a05ffb9a.png" alt="logo">
 </div>
 
