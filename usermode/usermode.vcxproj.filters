@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="offsets.h" />
+    <ClInclude Include="vectors.h" />
+    <ClInclude Include="sdk.h" />
+    <ClInclude Include="nuklear\nuklear.h" />
+    <ClInclude Include="nuklear\nuklear_d3d11.h" />
+    <ClInclude Include="nuklear\nuklear_d3d11_pixel_shader.h" />
+    <ClInclude Include="nuklear\nuklear_d3d11_vertex_shader.h" />
+    <ClInclude Include="xor.h" />
+    <ClInclude Include="driver.h" />
+    <ClInclude Include="imports.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="nuklear\nuklear_d3d11.cpp" />
+  </ItemGroup>
+</Project>
